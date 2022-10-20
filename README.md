@@ -7,13 +7,14 @@
     
 ```javascript
     const Mannuel3 = {
-    age: 21,
-    role: [Student],
-    code: [Javascript, HTML, CSS],
-    learning: [Typescript, Python, Java, React, Node, SQL],
-  
-   looking: "For a oportunity to grow and learn",
-   challenge: "I am doing the freeCodeCamp challenge"};
+        age: 21,
+        role: [Student],
+        code: [Javascript, HTML, CSS],
+        learning: [Typescript, Python, Java, React, Node, SQL],
+
+        looking: "For a oportunity to grow and learn",
+        challenge: "I am doing the freeCodeCamp challenge"
+   };
 ```
 
 
